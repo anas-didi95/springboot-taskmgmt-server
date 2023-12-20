@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-MstaskmgmtcmdApplication<mstaskmgmtcmd>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.anasdidi.mstaskmgmtcmd.MstaskmgmtcmdApplication",
+      "projectName": "mstaskmgmtcmd",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
