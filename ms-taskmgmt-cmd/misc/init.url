@@ -1,0 +1,1 @@
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.2.0&packaging=jar&jvmVersion=17&groupId=com.anasdidi&artifactId=mstaskmgmtcmd&name=mstaskmgmtcmd&description=Task%20Management%20System%20-%20Command%20project%20for%20Spring%20Boot&packageName=com.anasdidi.mstaskmgmtcmd&dependencies=web,data-jpa,postgresql,lombok,kafka,liquibase
